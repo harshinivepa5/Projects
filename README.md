@@ -5,7 +5,6 @@ implementation of ML Algorithms.
 ## Prediction of Facies Data
 The project's objective is to predict facies values from well log data using machine learning algorithms, specifically for classification. Data collected from sensors and transformed into CSV format undergoes preprocessing, including feature selection, cleaning, and outlier removal. The dataset is then split into train and test sets, where well "C6" serves as the test data. Machine learning models, including Random Forest, Logistic Regression, and XGBoost, are evaluated. Random Forest with an R2 score of 0.868 is selected for model training. The model performs well with an accuracy of 73.38% on the test data, suggesting its deployability for classifying facies.A ML Model for prediction of facies values using available data ,effectively determining facies values with high accuracy in a no code Dataiku Platform.
 ## Gmail Clone
-A Robust and User Friendly messaging system with features including message sending,multiple
-reipents and drafting and deletion capabilities
+A robust and user-friendly messaging system has been developed, equipped with key features such as message sending, support for multiple recipients, message drafting, and deletion capabilities. The system is built using various Python libraries, including Pandas, ensuring efficient data management and manipulation. This messaging platform offers a seamless and organized communication experience for users while harnessing the power of Python libraries for enhanced functionality and data handling.
 
 
